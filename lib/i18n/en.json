@@ -1,0 +1,329 @@
+{
+  "site": {
+    "name": "Parsis Fund",
+    "hrhName": "Parsis Fund"
+  },
+  "nav": {
+    "biography": "About",
+    "mission": "Strategy",
+    "works": "Portfolio",
+    "family": "Leadership",
+    "initiatives": "Focus Areas",
+    "news": "News",
+    "search": "Search",
+    "menu": "Menu"
+  },
+  "hero": {
+    "title": "House of Pahlavi",
+    "name": "Parsis Fund",
+    "tagline": "Investing in Tomorrow's Foundations",
+    "description": "A family fund dedicated to strategic investment in open governance protocols, artificial intelligence, cryptography, and transformative technology."
+  },
+  "home": {
+    "tagline": "Building Generational Wealth Through Innovation",
+    "intro": "Parsis Fund is a family investment fund focused on strategic allocations in frontier technology, open governance protocols, AI research, and cryptocurrency infrastructure.",
+    "quote": "We invest in the foundations of tomorrow—the protocols, systems, and technologies that will shape human coordination for generations.",
+    "legacyLabel": "Long-Term Vision",
+    "legacyTitle": "Sovereign Wealth for the Persian Future",
+    "legacyText1": "Parsis Fund was established by the House of Pahlavi to preserve and grow wealth across generations while funding transformative research and technology.",
+    "legacyText2": "Our investment philosophy combines rigorous fundamental analysis with a long-term perspective, focusing on technologies and protocols that create lasting value for humanity.",
+    "legacyQuote": "True wealth is not measured in assets alone, but in the systems we build and the futures we enable.",
+    "exploreLegacy": "Our Strategy",
+    "valuesLabel": "Investment Principles",
+    "valuesTitle": "Disciplined, Long-Term, Values-Aligned",
+    "valuesDescription": "We pursue investments that generate both financial returns and positive impact, with a focus on decentralization, privacy, and human empowerment.",
+    "community": "Long-Term",
+    "communityDesc": "Generational thinking guides every investment decision",
+    "generosity": "Values-Aligned",
+    "generosityDesc": "Investing in technologies that empower individuals and communities",
+    "inclusivity": "Research-Driven",
+    "inclusivityDesc": "Deep technical and fundamental analysis underpins every thesis",
+    "latestNews": "Latest",
+    "news": "News",
+    "viewAll": "View All",
+    "readMore": "Read More"
+  },
+  "sections": {
+    "biography": "About",
+    "biographyDesc": "Our mission and investment philosophy",
+    "mission": "Strategy",
+    "missionDesc": "Investment thesis and focus areas",
+    "works": "Portfolio",
+    "worksDesc": "Current allocations and initiatives"
+  },
+  "biography": {
+    "title": "About",
+    "headline": "About Parsis Fund",
+    "subtitle": "A family office and sovereign wealth fund dedicated to building generational wealth through strategic investment in transformative technology.",
+    "earlyLife": "Our Mission",
+    "earlyLifeText": "Parsis Fund manages the investment portfolio of the House of Pahlavi, focusing on frontier technology, cryptocurrency infrastructure, AI research, and open governance protocols.",
+    "education": "Investment Philosophy",
+    "educationText": "We take a long-term, research-driven approach to investment. Our portfolio is concentrated in high-conviction positions across blockchain infrastructure, AI, privacy technology, and decentralized systems.",
+    "residence": "Global Presence",
+    "residenceText": "Based in Switzerland with investments spanning global markets, from early-stage ventures to liquid digital assets and public equities.",
+    "practice": "Focus",
+    "visualArtist": "Technology Investment",
+    "focus": "Focus",
+    "humanitarianWork": "Public Goods",
+    "sector": "Sector",
+    "privacyTechnology": "Privacy & Security",
+    "artisticPractice": "Investment Strategy",
+    "artisticPracticeText1": "Our core thesis centers on the convergence of AI, cryptography, and decentralized systems. We invest in protocols and companies building the infrastructure for a more open, private, and coordinated future.",
+    "artisticPracticeText2": "We maintain concentrated positions in high-conviction investments, supported by deep technical due diligence and long-term commitment to portfolio companies.",
+    "viewWorksExhibitions": "View Portfolio",
+    "selectedExhibitions": "Investment Vehicles",
+    "exhibitionsSubtitle": "Structured investment across asset classes",
+    "humanitarianCivicWork": "Public Goods Funding",
+    "humanitarianText1": "Beyond financial returns, we allocate capital to public goods—open-source software, research, and infrastructure that benefits humanity without capturing value.",
+    "humanitarianText2": "Our grants program supports researchers, builders, and communities working on technologies that empower individuals and protect human rights.",
+    "civicTechInitiatives": "Focus Areas",
+    "civicTechSubtitle": "Strategic allocation across transformative technology sectors",
+    "professionalBackground": "Leadership",
+    "professionalText1": "Parsis Fund is led by HRH Cyrus Pahlavi as Chief Investment Officer, bringing expertise in technology, cryptography, and strategic investment.",
+    "professionalText2": "Our investment team combines deep technical knowledge with rigorous financial analysis to identify and support the most promising opportunities.",
+    "viewWorks": "View Portfolio",
+    "readMission": "Read Strategy",
+    "visit": "Visit",
+    "initiatives": {
+      "parsisFoundation": "Parsis Foundation",
+      "parsisFoundationDesc": "Non-profit supporting education, research, and community development.",
+      "parsisFund": "Crypto Allocation",
+      "parsisFundDesc": "Strategic positions in blockchain infrastructure and digital assets.",
+      "parsNetwork": "AI Investments",
+      "parsNetworkDesc": "Frontier AI research and infrastructure companies.",
+      "luxFund": "Lux Fund",
+      "luxFundDesc": "Co-investment vehicle for privacy and security technology."
+    }
+  },
+  "mission": {
+    "title": "Strategy",
+    "headline": "Investing in the Infrastructure of Tomorrow",
+    "subtitle": "Our investment strategy focuses on transformative technologies that will shape human coordination, privacy, and intelligence for generations to come.",
+    "priorities": {
+      "sustainability": {
+        "title": "Open Governance Protocols",
+        "description": "We invest in decentralized governance systems, DAOs, and coordination protocols that enable communities to make collective decisions transparently and efficiently without centralized control.",
+        "quote": "The future of human coordination is decentralized. We invest in the protocols that make it possible."
+      },
+      "coexistence": {
+        "title": "Artificial Intelligence",
+        "description": "Strategic investments in frontier AI research, foundation models, inference infrastructure, and AI-native applications. We focus on companies building responsible AI that augments human capability.",
+        "quote": "AI will be the most transformative technology of our generation. We invest in teams building it responsibly."
+      },
+      "education": {
+        "title": "Cryptography & Privacy",
+        "description": "Investments in zero-knowledge systems, fully homomorphic encryption, secure multi-party computation, and privacy-preserving technologies that protect individual freedoms.",
+        "quote": "Privacy is the foundation of freedom. We fund the cryptographic tools that make it possible."
+      },
+      "cooperation": {
+        "title": "Blockchain Infrastructure",
+        "description": "Core positions in blockchain protocols, layer 1 and layer 2 networks, cross-chain infrastructure, and the foundational technologies of the decentralized web.",
+        "quote": "Blockchains are the settlement layer for a new global financial system. We invest in the most promising infrastructure."
+      },
+      "prosperity": {
+        "title": "DeFi & Financial Infrastructure",
+        "description": "Investments in decentralized finance protocols, lending platforms, exchanges, and the infrastructure for a more open and accessible financial system.",
+        "quote": "Open financial infrastructure enables economic freedom. We support the protocols making it real."
+      },
+      "identity": {
+        "title": "Public Goods Grants",
+        "description": "Allocation to public goods—open-source software, research, and infrastructure that benefits humanity. Our grants support builders working on non-extractive technology.",
+        "quote": "Some of the most important infrastructure cannot capture value. We fund it anyway."
+      }
+    }
+  },
+  "works": {
+    "title": "Portfolio",
+    "headline": "Investment Portfolio",
+    "subtitle": "Strategic allocations across frontier technology, cryptocurrency infrastructure, AI, and public goods.",
+    "keyAchievements": "Key Holdings",
+    "selectedExhibitions": "Investment Vehicles",
+    "exhibitionsSubtitle": "Structured investment across asset classes and stages",
+    "philosophyQuote": "We invest in the protocols and systems that will shape human coordination for generations—not quarters.",
+    "disciplines": {
+      "visualArts": {
+        "title": "Blockchain Infrastructure",
+        "description": "Core positions in layer 1 protocols, layer 2 scaling solutions, and cross-chain infrastructure.",
+        "achievements": [
+          "Layer 1 protocol investments",
+          "Layer 2 scaling solutions",
+          "Cross-chain bridges and interoperability",
+          "Validator and staking infrastructure"
+        ]
+      },
+      "technology": {
+        "title": "AI & Machine Learning",
+        "description": "Investments in frontier AI research, foundation models, inference infrastructure, and AI-native applications.",
+        "achievements": [
+          "Foundation model companies",
+          "AI infrastructure and compute",
+          "Inference optimization",
+          "AI safety research"
+        ]
+      },
+      "investment": {
+        "title": "Privacy Technology",
+        "description": "Investments in zero-knowledge proofs, homomorphic encryption, secure computation, and privacy-preserving protocols.",
+        "achievements": [
+          "Zero-knowledge infrastructure",
+          "Privacy-preserving computation",
+          "Secure messaging protocols",
+          "Identity and credential systems"
+        ]
+      },
+      "writing": {
+        "title": "DeFi Protocols",
+        "description": "Strategic positions in decentralized exchanges, lending protocols, derivatives platforms, and financial infrastructure.",
+        "achievements": [
+          "Decentralized exchanges",
+          "Lending and borrowing protocols",
+          "Stablecoin infrastructure",
+          "Derivatives and structured products"
+        ]
+      },
+      "screen": {
+        "title": "Governance & DAOs",
+        "description": "Investments in decentralized autonomous organizations, governance tooling, and coordination protocols.",
+        "achievements": [
+          "DAO infrastructure",
+          "Governance tooling",
+          "Treasury management",
+          "Coordination protocols"
+        ]
+      },
+      "sculpture": {
+        "title": "Public Goods",
+        "description": "Grants and investments in open-source software, research, and non-extractive infrastructure.",
+        "achievements": [
+          "Open-source protocol funding",
+          "Research grants",
+          "Developer tooling",
+          "Community infrastructure"
+        ]
+      }
+    },
+    "exhibitions": {
+      "privateExhibition": "Direct Investment",
+      "artDubai": "Fund Allocation",
+      "groupExhibition": "Co-Investment",
+      "sothebysAuction": "Strategic Position",
+      "privateCollection": "Core Holding"
+    }
+  },
+  "family": {
+    "title": "Leadership",
+    "headline": "Investment Leadership",
+    "subtitle": "Parsis Fund is guided by experienced investors and technologists, united by a long-term vision for wealth creation and positive impact.",
+    "royalFamily": "Investment Committee",
+    "dedicatedToService": "Dedicated to Excellence",
+    "familyQuote": "We measure success not in quarterly returns, but in the foundations we build for future generations.",
+    "centuryOfProgress": "Our Approach",
+    "centurySubtitle": "Key principles guiding our investment strategy",
+    "enduringValues": "Investment Principles",
+    "valuesSubtitle": "The principles that guide every allocation decision.",
+    "service": "Long-Term",
+    "serviceDesc": "Generational thinking in every decision",
+    "dignity": "Research-Driven",
+    "dignityDesc": "Deep technical and fundamental analysis",
+    "unity": "Values-Aligned",
+    "unityDesc": "Investing in technology that empowers humanity",
+    "continuingLegacy": "Partner With Us",
+    "continuingLegacyText": "Learn more about co-investment opportunities, research partnerships, and collaboration.",
+    "ourMission": "Our Strategy",
+    "currentInitiatives": "Current Focus",
+    "members": {
+      "rezaShah": {
+        "name": "HRH Cyrus Pahlavi",
+        "title": "Chief Investment Officer",
+        "years": "Investment Leadership",
+        "relation": "Fund Leadership",
+        "description": "Leads investment strategy across all asset classes. Pioneer in privacy technology, applied cryptography, and frontier technology investment."
+      },
+      "mohammadReza": {
+        "name": "Investment Committee",
+        "title": "Strategic Oversight",
+        "years": "Governance",
+        "relation": "Advisory",
+        "description": "Experienced investors and technologists providing strategic oversight and governance for major allocation decisions."
+      },
+      "crownPrince": {
+        "name": "Research Team",
+        "title": "Technical Analysis",
+        "years": "Research",
+        "relation": "Investment Team",
+        "description": "Deep technical analysts and researchers conducting due diligence on protocols, companies, and investment opportunities."
+      },
+      "farah": {
+        "name": "Operations",
+        "title": "Fund Operations",
+        "years": "Operations",
+        "relation": "Investment Team",
+        "description": "Managing fund operations, treasury, and portfolio administration across multiple vehicles and jurisdictions."
+      }
+    },
+    "milestones": {
+      "founding": {
+        "year": "2024",
+        "title": "Fund Established",
+        "description": "Parsis Fund was established as the family office and investment vehicle for the House of Pahlavi."
+      },
+      "whiteRevolution": {
+        "year": "2025",
+        "title": "Core Positions Established",
+        "description": "Initial portfolio constructed across blockchain infrastructure, AI, and privacy technology."
+      },
+      "celebration": {
+        "year": "2025",
+        "title": "Public Goods Program",
+        "description": "Grants program launched to fund open-source software, research, and public infrastructure."
+      },
+      "present": {
+        "year": "Present",
+        "title": "Growing Portfolio",
+        "description": "Continuing to identify and support the most promising opportunities in frontier technology."
+      }
+    }
+  },
+  "news": {
+    "title": "News",
+    "headline": "Latest News",
+    "subtitle": "Updates on investments, research, and market insights",
+    "readMore": "Read More",
+    "categories": {
+      "humanitarian": "Investment",
+      "culture": "Research",
+      "technology": "Technology",
+      "education": "Market",
+      "address": "Announcement"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "headline": "Get in Touch",
+    "subtitle": "For investment inquiries, partnership opportunities, or general information, please reach out through official channels.",
+    "officialWebsite": "Official Website",
+    "address": "Location"
+  },
+  "footer": {
+    "about": "About",
+    "work": "Portfolio",
+    "legal": "Legal",
+    "connect": "Connect",
+    "biography": "About",
+    "mission": "Strategy",
+    "family": "Leadership",
+    "works": "Portfolio",
+    "initiatives": "Focus Areas",
+    "news": "News",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "contact": "Contact",
+    "copyright": "All rights reserved.",
+    "memberOf": "House of Pahlavi",
+    "tagline": "Investing in the foundations of tomorrow."
+  },
+  "language": {
+    "en": "English",
+    "fa": "فارسی"
+  }
+}
