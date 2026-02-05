@@ -58,13 +58,13 @@ export function HomeContent() {
             <div className={cn("relative flex justify-center", isRTL && "lg:order-1")}>
               <div className="relative w-[180px] sm:w-[220px] md:w-[260px] lg:w-[300px] xl:w-[360px]">
                 <div className="absolute -inset-3 md:-inset-4 rounded-2xl border border-gold/20" />
-                <div className="overflow-hidden rounded-xl">
+                <div className="overflow-hidden rounded-xl bg-gradient-to-br from-gold/20 to-gold/5 flex items-center justify-center aspect-square p-8">
                   <Image
-                    src="/images/cyrus-pahlavi.jpg"
-                    alt={t.hero.name}
-                    width={600}
-                    height={800}
-                    className="h-full w-full object-cover"
+                    src="/images/official-seal.png"
+                    alt="Parsis Fund Official Seal"
+                    width={400}
+                    height={400}
+                    className="w-full h-full object-contain"
                     priority
                   />
                 </div>
